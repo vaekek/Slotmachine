@@ -1,0 +1,15 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-color: darkred;
+}
+h1 {
+    font-family: sans-serif;
+    color: white;
+}
+h2 {
+    font-family: sans-serif;
+    color: yellow;
+}
